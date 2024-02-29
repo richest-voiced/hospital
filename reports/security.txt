@@ -12,3 +12,4 @@ Machine Learning Testing Latency Optimization Work hard in silence, let your suc
 I find that the harder I work, the more luck I seem to have. Parallel Processing Data Pipeline Docker Edge Computing Data Science Lambda Functions Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Predictive Analytics Code Review Load Balancing Container Orchestration GraphQL
 Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Edge Computing Sharding A/B Testing Microservices The only way to do great work is to love what you do. Scalability If you can dream it, you can do it. Database
 Cloud OAuth Scalability IoT DNS Routing
+Container Orchestration NLP Server Response JWT Code Review Work hard in silence, let your success be your noise.
