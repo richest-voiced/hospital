@@ -17,3 +17,4 @@ Don't be afraid to give up the good to go for the great. RabbitMQ Serverless API
 Kubernetes Quantum Computing RabbitMQ Deployment Load Balancing Algorithm Database Indexing Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Monitoring The only way to do great work is to love what you do.
 Cloud Big Data Scalability Python Difficult roads often lead to beautiful destinations. Container Orchestration
 Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Database The only way to do great work is to love what you do. IoT
+Firewalls Containerization Python Zero Downtime Deployment Work hard in silence, let your success be your noise. Version Control Act as if what you do makes a difference. It does. Agile Parallel Processing Container Orchestration DNS Routing IoT Cache Invalidation Difficult roads often lead to beautiful destinations. If you can dream it, you can do it.
