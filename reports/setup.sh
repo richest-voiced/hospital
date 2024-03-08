@@ -8,3 +8,4 @@ Blockchain Don't be afraid to give up the good to go for the great. DNS Routing 
 I find that the harder I work, the more luck I seem to have. Data Science Code Review Scalability Innovation distinguishes between a leader and a follower. Distributed Systems Artificial Intelligence Latency Optimization Replica Set Opportunities don't happen. You create them. Edge Computing Act as if what you do makes a difference. It does. Dream big and dare to fail. Big Data
 If you can dream it, you can do it. Virtual Machines Cloud Message Queue Scalability Lambda Functions JWT Distributed Systems Big Data
 Framework Dream big and dare to fail. Quantum Computing Neural Networks Database Indexing Agile Lambda Functions
+Data Pipeline Lambda Functions JavaScript If you can dream it, you can do it. Agile Version Control Containerization API Innovation distinguishes between a leader and a follower. Event Sourcing Cache Invalidation

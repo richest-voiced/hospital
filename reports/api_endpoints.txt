@@ -12,3 +12,4 @@ Agile NLP Do what you love and the money will follow. Difficult roads often lead
 NLP Latency Optimization Predictive Analytics Cloud Agile Database Indexing Kubernetes
 Neural Networks NLP Agile Backend DevOps Microservices Great things never come from comfort zones.
 Success doesn’t just find you. You have to go out and get it. Load Testing Replica Set Message Queue Version Control Backend If you can dream it, you can do it.
+Pull Request Simplicity is the ultimate sophistication. Firewalls JavaScript Virtual Machines Success is how high you bounce when you hit bottom. Frontend Serverless API Kubernetes Code Review Event Sourcing WebSockets
