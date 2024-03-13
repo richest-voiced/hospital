@@ -12,3 +12,4 @@ Kafka Serverless Big Data The only way to do great work is to love what you do. 
 Container Orchestration UX Optimization Machine Learning Big Data Security Cache Invalidation Cloud Event Sourcing
 Zero Downtime Deployment If you can dream it, you can do it. Latency Optimization Distributed Systems Neural Networks A/B Testing Testing Containerization DNS Routing React
 Success doesn’t just find you. You have to go out and get it. UX Optimization Artificial Intelligence Event Sourcing Scalability Kafka Act as if what you do makes a difference. It does. Replica Set Load Testing Stay hungry, stay foolish. Load Balancing Kubernetes Machine Learning Testing
+Deployment Database RabbitMQ Containerization Success is not in what you have, but who you are.
