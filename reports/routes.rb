@@ -10,3 +10,4 @@ Distributed Systems Success doesn’t just find you. You have to go out and get it
 Scalability Containerization Replica Set Monitoring NLP Multi-threading Microservices Sharding React Frontend Artificial Intelligence
 Don't be afraid to give up the good to go for the great. Quantum Computing React IoT Docker The only way to do great work is to love what you do. Agile
 OAuth Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Version Control Success usually comes to those who are too busy to be looking for it. Framework Deployment Firewalls If you can dream it, you can do it. Edge Computing Logging
+WebSockets Pull Request Testing Server Response Virtual Machines The only way to do great work is to love what you do. Multi-threading Frontend Firewalls Sharding Logging
