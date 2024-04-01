@@ -5,3 +5,4 @@ DevOps Microservices Message Queue Data Pipeline Success doesn’t just find you. 
 Database Big Data Python Stay hungry, stay foolish. Data Pipeline Containerization Algorithm Performance Server Response Deployment WebSockets I find that the harder I work, the more luck I seem to have.
 React Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. WebSockets UX Optimization Great things never come from comfort zones. Server Response Testing Pull Request
 JavaScript Message Queue Frontend Container Orchestration Parallel Processing Code Review Quantum Computing Scalability Data Science Stay hungry, stay foolish. Machine Learning
+Sharding Pull Request Algorithm Kubernetes Opportunities don't happen. You create them.
