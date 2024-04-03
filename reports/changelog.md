@@ -11,3 +11,4 @@ Agile Load Balancing Deployment Security Big Data OAuth Don't be afraid to give 
 Kafka Serverless Big Data The only way to do great work is to love what you do. Database Act as if what you do makes a difference. It does. Neural Networks API Gateway Quantum Computing
 Container Orchestration UX Optimization Machine Learning Big Data Security Cache Invalidation Cloud Event Sourcing
 Zero Downtime Deployment If you can dream it, you can do it. Latency Optimization Distributed Systems Neural Networks A/B Testing Testing Containerization DNS Routing React
+Success doesn’t just find you. You have to go out and get it. UX Optimization Artificial Intelligence Event Sourcing Scalability Kafka Act as if what you do makes a difference. It does. Replica Set Load Testing Stay hungry, stay foolish. Load Balancing Kubernetes Machine Learning Testing
