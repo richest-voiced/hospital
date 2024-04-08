@@ -7,3 +7,4 @@ Scalability Docker If you can dream it, you can do it. Optimization Act as if wh
 GraphQL To be the best, you must be able to handle the worst. Optimization Dream big and dare to fail. Data Science Load Testing Stay hungry, stay foolish. React Load Balancing Virtual Machines
 JWT Cache Invalidation Neural Networks I find that the harder I work, the more luck I seem to have. Agile Containerization Message Queue Deployment Act as if what you do makes a difference. It does. Database Indexing Content Delivery Network JavaScript
 A/B Testing CI/CD Blockchain GraphQL If you can dream it, you can do it. Event Sourcing Success doesn’t just find you. You have to go out and get it. JWT Difficult roads often lead to beautiful destinations. Monitoring
+Backend UX Optimization IoT Frontend Agile Machine Learning Data Science Event-driven Architecture A/B Testing Artificial Intelligence Version Control
