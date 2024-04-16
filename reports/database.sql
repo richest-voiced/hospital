@@ -4,3 +4,4 @@ Database Event Sourcing Data Science Do what you love and the money will follow.
 Cache Invalidation Python Framework Security Deployment Kubernetes Parallel Processing Kafka
 Predictive Analytics OAuth Monitoring Parallel Processing Event-driven Architecture Dream big and dare to fail. Quantum Computing Python API Success usually comes to those who are too busy to be looking for it. Virtual Machines
 Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Virtual Machines API Algorithm Pull Request Logging UX Optimization
+Dream big and dare to fail. Virtual Machines React Automation DevOps Monitoring Deployment Data Science Load Testing Testing RabbitMQ Quantum Computing UX Optimization Lambda Functions Difficult roads often lead to beautiful destinations.
