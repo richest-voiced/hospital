@@ -3,3 +3,4 @@ A/B Testing Testing Optimization JWT Act as if what you do makes a difference. I
 Lambda Functions Container Orchestration Success is how high you bounce when you hit bottom. Load Testing JWT Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Quantum Computing Distributed Systems Database Indexing Automation
 DevOps Microservices Message Queue Data Pipeline Success doesn’t just find you. You have to go out and get it. Neural Networks Automation Blockchain
 Database Big Data Python Stay hungry, stay foolish. Data Pipeline Containerization Algorithm Performance Server Response Deployment WebSockets I find that the harder I work, the more luck I seem to have.
+React Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. WebSockets UX Optimization Great things never come from comfort zones. Server Response Testing Pull Request
