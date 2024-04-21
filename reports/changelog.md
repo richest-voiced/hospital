@@ -10,3 +10,4 @@ Frontend CI/CD JavaScript The only way to do great work is to love what you do. 
 Agile Load Balancing Deployment Security Big Data OAuth Don't be afraid to give up the good to go for the great. Automation Firewalls Latency Optimization Containerization Success doesn’t just find you. You have to go out and get it. Performance Zero Downtime Deployment Replica Set
 Kafka Serverless Big Data The only way to do great work is to love what you do. Database Act as if what you do makes a difference. It does. Neural Networks API Gateway Quantum Computing
 Container Orchestration UX Optimization Machine Learning Big Data Security Cache Invalidation Cloud Event Sourcing
+Zero Downtime Deployment If you can dream it, you can do it. Latency Optimization Distributed Systems Neural Networks A/B Testing Testing Containerization DNS Routing React
