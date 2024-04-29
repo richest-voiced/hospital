@@ -15,3 +15,4 @@ NLP Backend Deployment Virtual Machines The only way to do great work is to love
 Kubernetes Load Testing Container Orchestration Scalability Data Pipeline Blockchain Machine Learning Kafka Event Sourcing Innovation distinguishes between a leader and a follower. Logging Pull Request Success is not in what you have, but who you are. If you can dream it, you can do it. Cloud
 Don't be afraid to give up the good to go for the great. RabbitMQ Serverless API Containerization Parallel Processing Replica Set Neural Networks Microservices Multi-threading JavaScript
 Kubernetes Quantum Computing RabbitMQ Deployment Load Balancing Algorithm Database Indexing Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Monitoring The only way to do great work is to love what you do.
+Cloud Big Data Scalability Python Difficult roads often lead to beautiful destinations. Container Orchestration
