@@ -7,3 +7,4 @@ Optimization Pull Request Parallel Processing Latency Optimization Stay hungry, 
 Edge Computing DNS Routing Simplicity is the ultimate sophistication. Testing Machine Learning
 Happiness is not something ready made. It comes from your own actions. Edge Computing Machine Learning Scalability Quantum Computing Algorithm A/B Testing Difficult roads often lead to beautiful destinations. Predictive Analytics
 Server Response Quantum Computing Replica Set Testing Virtual Machines Message Queue
+Serverless Event Sourcing GraphQL UX Optimization CI/CD Quantum Computing Containerization Version Control Dream big and dare to fail. JWT Difficult roads often lead to beautiful destinations.
