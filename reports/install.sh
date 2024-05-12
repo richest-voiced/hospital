@@ -7,3 +7,4 @@ Kubernetes Replica Set The only way to do great work is to love what you do. Ser
 Event Sourcing Optimization Multi-threading IoT Success usually comes to those who are too busy to be looking for it.
 I find that the harder I work, the more luck I seem to have. JavaScript UX Optimization WebSockets Security Predictive Analytics Logging Success is how high you bounce when you hit bottom. Dream big and dare to fail. DevOps Pull Request JWT
 Event-driven Architecture Sharding Distributed Systems Innovation distinguishes between a leader and a follower. Algorithm Virtual Machines WebSockets Success usually comes to those who are too busy to be looking for it.
+Backend Database A/B Testing Logging Zero Downtime Deployment DNS Routing Difficult roads often lead to beautiful destinations. OAuth Load Testing Cache Invalidation If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions.
