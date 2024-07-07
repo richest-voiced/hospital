@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Edge Computing NLP Backend Success 
 Performance JWT Edge Computing Latency Optimization Agile To be the best, you must be able to handle the worst.
 Frontend CI/CD JavaScript The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Great things never come from comfort zones. Database Indexing
 Agile Load Balancing Deployment Security Big Data OAuth Don't be afraid to give up the good to go for the great. Automation Firewalls Latency Optimization Containerization Success doesn’t just find you. You have to go out and get it. Performance Zero Downtime Deployment Replica Set
+Kafka Serverless Big Data The only way to do great work is to love what you do. Database Act as if what you do makes a difference. It does. Neural Networks API Gateway Quantum Computing
