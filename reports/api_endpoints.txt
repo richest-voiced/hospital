@@ -7,3 +7,4 @@ Data Pipeline Multi-threading Security Big Data Lambda Functions Agile Monitorin
 Success is not in what you have, but who you are. Microservices Message Queue Cache Invalidation Lambda Functions Distributed Systems
 Event-driven Architecture DNS Routing NLP Predictive Analytics Security Distributed Systems To be the best, you must be able to handle the worst. IoT Frontend DevOps Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Pull Request Artificial Intelligence Parallel Processing
 Opportunities don't happen. You create them. Sharding Content Delivery Network Backend DevOps Testing Neural Networks
+Parallel Processing Content Delivery Network API Gateway Sharding Big Data
