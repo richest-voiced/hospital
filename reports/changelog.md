@@ -7,3 +7,4 @@ Success is not in what you have, but who you are. Kafka Load Testing Virtual Mac
 Opportunities don't happen. You create them. Edge Computing NLP Backend Success is how high you bounce when you hit bottom. React API OAuth Database Indexing Python Microservices Framework Data Pipeline Work hard in silence, let your success be your noise. Agile
 Performance JWT Edge Computing Latency Optimization Agile To be the best, you must be able to handle the worst.
 Frontend CI/CD JavaScript The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Great things never come from comfort zones. Database Indexing
+Agile Load Balancing Deployment Security Big Data OAuth Don't be afraid to give up the good to go for the great. Automation Firewalls Latency Optimization Containerization Success doesn’t just find you. You have to go out and get it. Performance Zero Downtime Deployment Replica Set
