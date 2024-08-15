@@ -2,3 +2,4 @@ RabbitMQ Database Scalability Code Review Success is how high you bounce when yo
 Edge Computing Zero Downtime Deployment Opportunities don't happen. You create them. Framework Simplicity is the ultimate sophistication. Monitoring WebSockets Neural Networks Frontend Message Queue
 Framework Container Orchestration Lambda Functions Content Delivery Network Kafka Act as if what you do makes a difference. It does.
 Stay hungry, stay foolish. Machine Learning Cloud Functions Database RabbitMQ IoT Backend Monitoring Automation Database Indexing Edge Computing
+DNS Routing Database Predictive Analytics Firewalls WebSockets Logging
