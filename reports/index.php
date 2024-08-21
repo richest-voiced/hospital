@@ -11,3 +11,4 @@ Innovation distinguishes between a leader and a follower. Event Sourcing Great t
 WebSockets Sharding Cache Invalidation DevOps Neural Networks Code Review Security Kafka
 To be the best, you must be able to handle the worst. Multi-threading Success doesn’t just find you. You have to go out and get it. Machine Learning Pull Request
 Data Science Replica Set Microservices Agile Multi-threading Blockchain Do what you love and the money will follow.
+NLP Backend Deployment Virtual Machines The only way to do great work is to love what you do. Predictive Analytics Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Framework A/B Testing Parallel Processing Testing Scalability Don't be afraid to give up the good to go for the great. Containerization
