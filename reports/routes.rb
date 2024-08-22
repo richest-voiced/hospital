@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. Framework Lambda F
 Serverless WebSockets Great things never come from comfort zones. Database Docker React JavaScript Algorithm Monitoring CI/CD Frontend
 Frontend Lambda Functions Monitoring Load Balancing Agile DevOps JavaScript Success is not in what you have, but who you are. Distributed Systems Great things never come from comfort zones. IoT Container Orchestration
 Multi-threading Parallel Processing Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. React DNS Routing Load Testing If you can dream it, you can do it.
+Deployment Docker Cloud Functions Distributed Systems Difficult roads often lead to beautiful destinations. JWT Zero Downtime Deployment Dream big and dare to fail. Parallel Processing A/B Testing Python NLP Do what you love and the money will follow.

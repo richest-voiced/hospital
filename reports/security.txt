@@ -4,3 +4,4 @@ Distributed Systems Do what you love and the money will follow. A/B Testing Serv
 To be the best, you must be able to handle the worst. Cloud Firewalls Automation Cache Invalidation Success is not in what you have, but who you are.
 Sharding A/B Testing Performance JavaScript To be the best, you must be able to handle the worst. Kafka IoT Cache Invalidation Message Queue JWT Containerization UX Optimization Great things never come from comfort zones. WebSockets Stay hungry, stay foolish.
 The only way to do great work is to love what you do. Pull Request Success usually comes to those who are too busy to be looking for it. Frontend JavaScript Algorithm
+Container Orchestration Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Backend Replica Set Neural Networks Monitoring Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Multi-threading
