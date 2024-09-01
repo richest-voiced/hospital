@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Success is not in what you
 Testing UX Optimization API Gateway Performance Serverless
 Innovation distinguishes between a leader and a follower. Event Sourcing Great things never come from comfort zones. Automation React JavaScript Kafka Distributed Systems Cloud NLP Message Queue
 WebSockets Sharding Cache Invalidation DevOps Neural Networks Code Review Security Kafka
+To be the best, you must be able to handle the worst. Multi-threading Success doesn’t just find you. You have to go out and get it. Machine Learning Pull Request
