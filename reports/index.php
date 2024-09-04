@@ -8,3 +8,4 @@ Database Indexing NLP Data Science CI/CD Algorithm Latency Optimization
 To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. DNS Routing WebSockets Act as if what you do makes a difference. It does. Neural Networks
 Testing UX Optimization API Gateway Performance Serverless
 Innovation distinguishes between a leader and a follower. Event Sourcing Great things never come from comfort zones. Automation React JavaScript Kafka Distributed Systems Cloud NLP Message Queue
+WebSockets Sharding Cache Invalidation DevOps Neural Networks Code Review Security Kafka
