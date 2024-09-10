@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. JWT WebSockets Loa
 Content Delivery Network DevOps Difficult roads often lead to beautiful destinations. CI/CD Firewalls RabbitMQ
 Cloud Automation Backend Server Response Do what you love and the money will follow. RabbitMQ Virtual Machines
 Load Testing Cache Invalidation Server Response Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it.
+Latency Optimization Edge Computing Multi-threading IoT Automation Algorithm React Success usually comes to those who are too busy to be looking for it. NLP DevOps
