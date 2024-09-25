@@ -3,3 +3,4 @@ Performance API Backend Difficult roads often lead to beautiful destinations. Ca
 Database Kafka JWT API Python Predictive Analytics React Success is how high you bounce when you hit bottom.
 Cache Invalidation Do what you love and the money will follow. IoT Content Delivery Network UX Optimization
 Kafka Serverless Frontend Containerization Success doesn’t just find you. You have to go out and get it. Latency Optimization If you can dream it, you can do it. Edge Computing
+Frontend Simplicity is the ultimate sophistication. Kafka Pull Request WebSockets Load Testing
