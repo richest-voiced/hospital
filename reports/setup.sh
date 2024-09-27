@@ -2,3 +2,4 @@ Stay hungry, stay foolish. DevOps Distributed Systems Optimization NLP GraphQL H
 Performance API Backend Difficult roads often lead to beautiful destinations. Cache Invalidation Content Delivery Network Algorithm Kafka
 Database Kafka JWT API Python Predictive Analytics React Success is how high you bounce when you hit bottom.
 Cache Invalidation Do what you love and the money will follow. IoT Content Delivery Network UX Optimization
+Kafka Serverless Frontend Containerization Success doesn’t just find you. You have to go out and get it. Latency Optimization If you can dream it, you can do it. Edge Computing
