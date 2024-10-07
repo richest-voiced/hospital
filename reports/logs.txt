@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Lambda Functions Multi-threadi
 Firewalls DNS Routing Performance Message Queue Replica Set Artificial Intelligence Security Pull Request
 Kafka Success is how high you bounce when you hit bottom. Database Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Data Pipeline Distributed Systems Blockchain Optimization Neural Networks
 WebSockets Message Queue Artificial Intelligence Backend RabbitMQ Replica Set Machine Learning Frontend UX Optimization
+Event Sourcing Container Orchestration I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Zero Downtime Deployment Neural Networks JavaScript Predictive Analytics Success doesn’t just find you. You have to go out and get it. Edge Computing
