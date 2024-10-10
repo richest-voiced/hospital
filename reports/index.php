@@ -5,3 +5,4 @@ Machine Learning IoT Parallel Processing Virtual Machines Don't be afraid to giv
 Deployment Security Scalability JavaScript Optimization Python Event-driven Architecture Microservices Container Orchestration Logging Virtual Machines The only way to do great work is to love what you do. Message Queue OAuth Cache Invalidation
 Success doesn’t just find you. You have to go out and get it. Framework Backend Distributed Systems Serverless Artificial Intelligence Dream big and dare to fail. Testing Machine Learning Optimization NLP Message Queue Cloud Kubernetes
 Database Indexing NLP Data Science CI/CD Algorithm Latency Optimization
+To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. DNS Routing WebSockets Act as if what you do makes a difference. It does. Neural Networks
