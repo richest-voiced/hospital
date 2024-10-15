@@ -1,2 +1,3 @@
 Machine Learning Monitoring API Server Response Testing Dream big and dare to fail. Firewalls Agile Cloud
 WebSockets Data Science Code Review API Gateway UX Optimization
+JWT Container Orchestration Serverless Database Logging JavaScript Security Database Indexing Python RabbitMQ Framework Code Review Docker Latency Optimization If you can dream it, you can do it.
