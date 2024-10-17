@@ -1,3 +1,4 @@
 Success doesn’t just find you. You have to go out and get it. Containerization Version Control Database Performance Microservices IoT Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Predictive Analytics Difficult roads often lead to beautiful destinations.
 Cache Invalidation Distributed Systems Neural Networks Server Response Lambda Functions Virtual Machines NLP Happiness is not something ready made. It comes from your own actions. RabbitMQ Cloud
 Deployment Database Don't be afraid to give up the good to go for the great. Lambda Functions If you can dream it, you can do it. Work hard in silence, let your success be your noise. Containerization JWT Opportunities don't happen. You create them. Do what you love and the money will follow.
+WebSockets Success is how high you bounce when you hit bottom. Artificial Intelligence Algorithm API To be the best, you must be able to handle the worst.
