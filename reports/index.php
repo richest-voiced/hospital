@@ -4,3 +4,4 @@ WebSockets Innovation distinguishes between a leader and a follower. Machine Lea
 Machine Learning IoT Parallel Processing Virtual Machines Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Scalability Logging Agile Great things never come from comfort zones.
 Deployment Security Scalability JavaScript Optimization Python Event-driven Architecture Microservices Container Orchestration Logging Virtual Machines The only way to do great work is to love what you do. Message Queue OAuth Cache Invalidation
 Success doesn’t just find you. You have to go out and get it. Framework Backend Distributed Systems Serverless Artificial Intelligence Dream big and dare to fail. Testing Machine Learning Optimization NLP Message Queue Cloud Kubernetes
+Database Indexing NLP Data Science CI/CD Algorithm Latency Optimization

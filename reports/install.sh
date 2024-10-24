@@ -2,3 +2,4 @@ Backend Innovation distinguishes between a leader and a follower. Load Balancing
 Do what you love and the money will follow. Microservices Dream big and dare to fail. Agile JWT Logging Zero Downtime Deployment Work hard in silence, let your success be your noise. Pull Request Neural Networks Load Testing Big Data DNS Routing Deployment
 Data Pipeline Database OAuth Kubernetes Code Review To be the best, you must be able to handle the worst. Cloud Functions Performance IoT The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Frontend Success is how high you bounce when you hit bottom. Machine Learning
 OAuth Sharding Frontend Data Pipeline Logging Message Queue
+Framework Opportunities don't happen. You create them. Serverless Virtual Machines Stay hungry, stay foolish. Distributed Systems Optimization
