@@ -3,3 +3,4 @@ Version Control Artificial Intelligence Load Testing JavaScript Security Scalabi
 JavaScript Blockchain Code Review API Gateway Content Delivery Network Edge Computing Containerization Frontend
 UX Optimization JavaScript Edge Computing Success is not in what you have, but who you are. Deployment
 CI/CD Artificial Intelligence To be the best, you must be able to handle the worst. Big Data Opportunities don't happen. You create them. Do what you love and the money will follow. Cloud Functions Stay hungry, stay foolish.
+Optimization Pull Request Parallel Processing Latency Optimization Stay hungry, stay foolish. WebSockets Firewalls Data Pipeline JavaScript OAuth Success doesn’t just find you. You have to go out and get it. Multi-threading
