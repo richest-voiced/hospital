@@ -3,3 +3,4 @@ React Data Pipeline API Scalability Firewalls Event Sourcing Distributed Systems
 Multi-threading Code Review Load Balancing UX Optimization JavaScript Difficult roads often lead to beautiful destinations. Edge Computing Scalability OAuth Backend Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. A/B Testing
 Success doesn’t just find you. You have to go out and get it. JWT WebSockets Load Balancing Security NLP GraphQL Scalability Logging Act as if what you do makes a difference. It does. Firewalls JavaScript
 Content Delivery Network DevOps Difficult roads often lead to beautiful destinations. CI/CD Firewalls RabbitMQ
+Cloud Automation Backend Server Response Do what you love and the money will follow. RabbitMQ Virtual Machines
