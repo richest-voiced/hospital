@@ -1,2 +1,3 @@
 JWT Zero Downtime Deployment OAuth Neural Networks Server Response Performance
 Lambda Functions Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Serverless NLP Logging Pull Request Do what you love and the money will follow. OAuth Version Control
+Version Control Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. DNS Routing Neural Networks Docker Success is how high you bounce when you hit bottom. Containerization Code Review Serverless API Gateway DevOps Kubernetes Scalability Predictive Analytics
