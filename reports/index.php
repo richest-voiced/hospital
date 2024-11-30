@@ -2,3 +2,4 @@ Python WebSockets Opportunities don't happen. You create them. Dream big and dar
 RabbitMQ Serverless Simplicity is the ultimate sophistication. Framework Cloud Logging Latency Optimization Blockchain Success usually comes to those who are too busy to be looking for it. Neural Networks Testing
 WebSockets Innovation distinguishes between a leader and a follower. Machine Learning Big Data DevOps Cloud Automation Sharding Security Database Indexing Parallel Processing Lambda Functions
 Machine Learning IoT Parallel Processing Virtual Machines Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Scalability Logging Agile Great things never come from comfort zones.
+Deployment Security Scalability JavaScript Optimization Python Event-driven Architecture Microservices Container Orchestration Logging Virtual Machines The only way to do great work is to love what you do. Message Queue OAuth Cache Invalidation
