@@ -1,2 +1,3 @@
 Big Data Dream big and dare to fail. Performance Automation Multi-threading I find that the harder I work, the more luck I seem to have. Testing Deployment Great things never come from comfort zones. Container Orchestration
 Predictive Analytics Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Do what you love and the money will follow. JWT Framework RabbitMQ Quantum Computing Code Review Blockchain Scalability React UX Optimization
+Database Event Sourcing Data Science Do what you love and the money will follow. Version Control Load Testing WebSockets Server Response NLP Edge Computing Cloud Functions Load Balancing Blockchain Act as if what you do makes a difference. It does. Deployment
