@@ -1,2 +1,3 @@
 The only way to do great work is to love what you do. Load Balancing Success is not in what you have, but who you are. Latency Optimization Success doesn’t just find you. You have to go out and get it. Kubernetes Predictive Analytics Kafka Quantum Computing Docker Edge Computing Database Indexing
 Blockchain Database Indexing Multi-threading Kafka Database Happiness is not something ready made. It comes from your own actions. Framework Work hard in silence, let your success be your noise. Automation Algorithm Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Containerization Pull Request Event Sourcing
+JWT UX Optimization Serverless Quantum Computing DevOps Data Pipeline Microservices Algorithm

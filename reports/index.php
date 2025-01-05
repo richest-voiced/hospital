@@ -1,2 +1,3 @@
 Python WebSockets Opportunities don't happen. You create them. Dream big and dare to fail. Work hard in silence, let your success be your noise. Algorithm Backend Testing Event-driven Architecture
 RabbitMQ Serverless Simplicity is the ultimate sophistication. Framework Cloud Logging Latency Optimization Blockchain Success usually comes to those who are too busy to be looking for it. Neural Networks Testing
+WebSockets Innovation distinguishes between a leader and a follower. Machine Learning Big Data DevOps Cloud Automation Sharding Security Database Indexing Parallel Processing Lambda Functions
